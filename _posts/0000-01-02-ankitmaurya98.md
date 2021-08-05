@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Ankit's slide!"
 ---
-I have now changed the content of line 5
+This is my awesome slide. 
 Use the left arrow to go back!
